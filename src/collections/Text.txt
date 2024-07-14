@@ -1,12 +1,6 @@
 Hello Kiran hi how are you
 Hello Shivaraj How are you men
 Hey I am Mantesh now
-<<<<<<< HEAD
-<<<<<<< Updated upstream
 Hey I am Chetan Now
-=======
 Hey I have made a changes
->>>>>>> Stashed changes
-=======
-Hey I have made a changes
->>>>>>> shivaraj
+
